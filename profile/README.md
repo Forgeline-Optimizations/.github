@@ -18,8 +18,6 @@ De meeste AI-projecten in het MKB blijven steken in de proeffase: een leuke demo
 
 Wij helpen Nederlandse mkb-bedrijven productiever te worden door hun **kernprocessen** in kaart te brengen, te standaardiseren en waar het loont te automatiseren met software en AI. En waar het niet loont, zeggen we dat ook. Wel zo eerlijk.
 
-> *"Ik bouw software- en AI-oplossingen die de praktijk overleven: doordacht ontworpen, getest en gedocumenteerd, met vooraf een eerlijk oordeel over wat automatisering voor jouw bedrijf wél en níet oplevert."*
-
 ---
 
 ## 🧭 Waar we voor staan
