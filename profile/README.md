@@ -12,24 +12,24 @@
 
 ---
 
-## 👋 Hey, dit zijn wij
+## 👋 Hey, dit ben ik
 
 De meeste AI-projecten in het MKB blijven steken in de proeffase: een leuke demo, een veelbelovend experiment, en dan... niets in productie. Forgeline Optimizations bestaat om dat te veranderen.
 
-Wij helpen Nederlandse mkb-bedrijven productiever te worden door hun **kernprocessen** in kaart te brengen, te standaardiseren en waar het loont te automatiseren met software en AI. En waar het niet loont, zeggen we dat ook. Wel zo eerlijk.
+Ik help Nederlandse mkb-bedrijven productiever te worden door hun **kernprocessen** in kaart te brengen, te standaardiseren en waar het loont te automatiseren met software en AI. En waar het niet loont, zeg ik dat ook. Wel zo eerlijk.
 
 ---
 
 ## 🧭 Waar we voor staan
 
 **🏭 Production-grade, geen demo-grade.**
-Alles wat we opleveren is getest, gedocumenteerd en overgedragen. Je krijgt een werkend systeem met handleiding, geen prototype waar niemand de eigenaar van is.
+Alles wat ik oplever is getest, gedocumenteerd en overgedragen. Je krijgt een werkend systeem met handleiding, geen prototype waar niemand de eigenaar van is.
 
 **🔍 Eerst het proces, dan de tool.**
-Geen gestandaardiseerd proces, geen automatisering. We beginnen met de werkvloer: kijken, meten en vragen, en pas daarna kiezen we technologie. Onze technische achtergrond (werktuigbouwkunde én software engineering) helpt daarbij.
+Geen gestandaardiseerd proces, geen automatisering. Ik begin met de werkvloer: kijken, meten en vragen, en pas daarna kiezen we technologie. Mijn technische achtergrond (werktuigbouwkunde én software engineering) helpt daarbij.
 
 **🤝 Radicale eerlijkheid over scope.**
-De lijst "dit moet je níet automatiseren" is bij ons een betaald resultaat. Op korte termijn kost ons dat omzet. Op lange termijn is het de reden dat klanten ons vertrouwen.
+De lijst "dit moet je níet automatiseren" is een betaald resultaat. Op korte termijn kost me dat omzet. Op lange termijn is het de reden dat ondernemers mij vertrouwen.
 
 ---
 
